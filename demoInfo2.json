@@ -1,0 +1,19 @@
+{
+  "name" : "test",
+  "date" : {
+    "dayOfMonth" : 5,
+    "month" : "JULY",
+    "monthValue" : 7,
+    "year" : 2017,
+    "dayOfWeek" : "WEDNESDAY",
+    "hour" : 12,
+    "minute" : 8,
+    "nano" : 148000000,
+    "second" : 23,
+    "dayOfYear" : 186,
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    }
+  }
+}
